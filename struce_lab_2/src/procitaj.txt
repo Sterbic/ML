@@ -1,0 +1,4 @@
+Program nije potrebno kompajlirati, isporučen je kompajlirani jar file u folderu bin/.
+Program se pokrece pozivom skripte su-lab2.sh sljedecom komandom:
+./su-lab1.sh <putanja-rjecnik> <putanja-skup-ucenje> <putanja-skup-provjera> <putanja-ispitni-skup> <putanja-izlaznog-direktorija>
+
